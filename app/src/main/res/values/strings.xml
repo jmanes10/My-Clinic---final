@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Clinic</string>
+    <string name="not_available">N/A</string>
+    <string name="insurance_type_1">Contracted insurance plans</string>
+    <string name="insurance_type_2">Medicare</string>
+    <string name="insurance_type_3">Medicaid</string>
+    <string name="insurance_type_4">Tricare/Champus</string>
+    <string name="insurance_type_5">HMOs</string>
+</resources>
